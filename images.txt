@@ -9,3 +9,4 @@ debian
 mongo:6.0.18
 graylog/graylog-datanode:6.1
 graylog/graylog-enterprise:6.1
+elasticsearch:7.17.5
