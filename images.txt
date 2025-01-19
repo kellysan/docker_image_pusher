@@ -19,7 +19,7 @@ registry.k8s.io/kube-proxy:v1.30.8
 registry.k8s.io/kube-scheduler:v1.30.8
 registry.k8s.io/kubectl:v1.30.8
 easzlab/kubeasz:3.6.0
-easzlab/kubeasz-k8s-bin:1.31.1
-easzlab/kubeasz-ext-bin:1.17.1
-easzlab/kubeasz-sys-pkg:1.0.0
-easzlab/harbor-offline:v2.6.4
+easzlab/kubeasz-k8s-bin:1.31.2
+easzlab/kubeasz-ext-bin:1.11.1
+easzlab/kubeasz-sys-pkg:1.0.2
+easzlab/harbor-offline:v2.11.1
