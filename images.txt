@@ -19,3 +19,4 @@ registry.k8s.io/kube-proxy:v1.30.8
 registry.k8s.io/kube-scheduler:v1.30.8
 registry.k8s.io/kubectl:v1.30.8
 jenkins:latest
+easzlab/kubeasz:3.6.0
