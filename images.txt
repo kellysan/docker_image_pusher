@@ -36,4 +36,5 @@ coredns/coredns:1.11.3
 easzlab/pause:3.10
 kubernetesui/metrics-scraper:v1.0.8
 kubernetesui/dashboard:v2.7.0
-
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
+registry.k8s.io/ingress-nginx/controller:v1.12.0
